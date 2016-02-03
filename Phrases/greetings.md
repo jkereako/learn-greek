@@ -6,6 +6,16 @@
 | **Good afternoon**  | Καληνύχτα   |
 | **How are you?**    | πώς είσαι;  |
 
+## Well wishes
+| English               | Greek       |
+| --------------------- |------------ |
+| **Have a good trip**  | Καλό ταξίδι |
+| **Good luck**         | καλή τύχη   |
+| **Well done**         | μπράβο      |
+| **Very nice**         | πολύ ωραία  |
+
+Greeks say bravo (μπράβο) and very nice quite a bit.
+
 ## Holidays
 | English     | Greek                     |
 | ----------- |-------------------------- |
