@@ -1,10 +1,11 @@
 ## Greetings
-| English     | Greek               |
-| ----------- |-------------------- |
-| **Good morning**    | Καλημέρα    |
-| **Good afternoon**  | καλησπέρα   |
-| **Good afternoon**  | Καληνύχτα   |
-| **How are you?**    | πώς είσαι;  |
+| English     | Greek                      |
+| ----------- |--------------------------- |
+| **Good morning**           | Καλημέρα    |
+| **Good afternoon**         | καλησπέρα   |
+| **Good afternoon**         | Καληνύχτα   |
+| **How are you?**           | πώς είσαι;  |
+| **What are you up to?**    | τι κάνεις;  |
 
 ## Well wishes
 | English               | Greek       |
